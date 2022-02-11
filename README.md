@@ -37,7 +37,7 @@ print("Row",len(df.axes[1]))
 
 
 ## OUTPUT:
-![Output]()
+![Output](https://github.com/naramala-niharika/Read-from-CSV/blob/main/u2.PNG?raw=true)
 
 ## RESULT:
 Thus the program is written to read the csv file.
